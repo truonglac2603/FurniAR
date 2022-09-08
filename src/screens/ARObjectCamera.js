@@ -4,7 +4,7 @@ import React from 'react'
 const ARObjectCamera = () => {
   return (
     <View>
-      <Text>ARObjectCamera</Text>
+      <Text>May nat oke</Text>
     </View>
   )
 }
