@@ -1,0 +1,311 @@
+{
+    "rs": {
+        "Authentication": [
+            {
+                "ID": "32HDF2389FJH9HW8734H9RF9HHD",
+                "Username": "Lmao01",
+                "Password": "abcxyz123",
+                "UID": "Userf7438hf943jfj3h873j0f92"
+            },
+            {
+                "ID": "F34U8HF843H8FH384F934F3HH34",
+                "Username": "trongtruong2603@gmail.com",
+                "Password": "bbbbbb",
+                "UID": "Userh87d342h7834f493f39489"
+            },
+            {
+                "ID": "HF3984HF943JFJ43J943FJ3JJ4F",
+                "Username": "bbbbbb",
+                "Password": "bbbbbb",
+                "UID": "User54jg9f45jgj4598jg459gj"
+            },
+            {
+                "ID": "32HDF2389FJF4H38HF8H438HF43",
+                "Username": "truong01",
+                "Password": "LookingAtThatShinyStarUponTheBlueSky",
+                "UID": "User327gd8732fh9834j340gj4"
+            },
+            {
+                "ID": "32HDF24D3F98F843HF939JF984J",
+                "Username": "KhachTest",
+                "Password": "qwertyuiop1234567890",
+                "UID": "Userdc34n8h932j0dj20jf34hh"
+            }
+        ],
+        "Product": [
+            {
+                "PID": "Product18732d873h4hff34h40",
+                "ProductName": "Bộ giường xuất xứ tại Nhật Lmao",
+                "Favorited": 3456,
+                "Size": [
+                    300,
+                    200,
+                    800
+                ],
+                "Description": "Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, Không có mô tả gì cả, ",
+                "Image": "https://img2.cgtrader.com/items/2275745/46356ea5f5/wood-oak-king-size-bed-3d-model-low-poly-max-obj-fbx-ma-blend-ztl.jpg",
+                "Images": [
+                    "https://img2.cgtrader.com/items/2275745/46356ea5f5/wood-oak-king-size-bed-3d-model-low-poly-max-obj-fbx-ma-blend-ztl.jpg",
+                    "https://img-new.cgtrader.com/items/2275745/3615954283/wood-oak-king-size-bed-3d-model-low-poly-max-obj-fbx-ma-blend-ztl.jpg",
+                    "https://img1.cgtrader.com/items/2275745/2f0dd89057/wood-oak-king-size-bed-3d-model-low-poly-max-obj-fbx-ma-blend-ztl.jpg"
+                ],
+                "Tags": [
+                    "Giường",
+                    "Phòng ngủ"
+                ],
+                "Price": 200000000
+            },
+            {
+                "PID": "Product1f7463f8738hff34h39",
+                "ProductName": "Gối vuông mềm Hanvico",
+                "Favorited": 3456,
+                "Size": [
+                    300,
+                    200,
+                    800
+                ],
+                "Description": "Không có mô tả gì cả",
+                "Image": "https://img2.cgtrader.com/items/1910904/6afec5574e/simple-pillow-3d-model-low-poly-obj-mtl-fbx-blend.jpg",
+                "Images": [
+                    "https://img2.cgtrader.com/items/1910904/6afec5574e/simple-pillow-3d-model-low-poly-obj-mtl-fbx-blend.jpg",
+                    "https://img1.cgtrader.com/items/1910904/3e81ce8108/simple-pillow-3d-model-low-poly-obj-mtl-fbx-blend.jpg",
+                    "https://img-new.cgtrader.com/items/1910904/92c64a588c/simple-pillow-3d-model-low-poly-obj-mtl-fbx-blend.jpg"
+                ],
+                "Tags": [
+                    "Gối",
+                    "Phòng khách",
+                    "Phòng ngủ"
+                ],
+                "Price": 200000000
+            },
+            {
+                "PID": "Product183d32dh983hff34h39",
+                "ProductName": "Tủ lạnh Corona PX9750",
+                "Favorited": 3456,
+                "Size": [
+                    300,
+                    200,
+                    800
+                ],
+                "Description": "Không có mô tả gì cả, ",
+                "Image": "https://img1.cgtrader.com/items/800497/514a5fa842/modern-smart-fridge-3d-model-low-poly-max-obj-3ds-fbx-stl-mtl.jpg",
+                "Images": [
+                    "https://img1.cgtrader.com/items/800497/514a5fa842/modern-smart-fridge-3d-model-low-poly-max-obj-3ds-fbx-stl-mtl.jpg",
+                    "https://img1.cgtrader.com/items/800497/7252bd6d48/modern-smart-fridge-3d-model-low-poly-max-obj-3ds-fbx-stl-mtl.jpg",
+                    "https://img-new.cgtrader.com/items/800497/136b1c3fc2/modern-smart-fridge-3d-model-low-poly-max-obj-3ds-fbx-stl-mtl.jpg",
+                    "https://img2.cgtrader.com/items/800497/585857cba3/modern-smart-fridge-3d-model-low-poly-max-obj-3ds-fbx-stl-mtl.jpg",
+                    "https://img2.cgtrader.com/items/800497/a716215f19/modern-smart-fridge-3d-model-low-poly-max-obj-3ds-fbx-stl-mtl.jpg",
+                    "https://img-new.cgtrader.com/items/800497/24700e833e/modern-smart-fridge-3d-model-low-poly-max-obj-3ds-fbx-stl-mtl.jpg"
+                ],
+                "Tags": [
+                    "Tủ lạnh",
+                    "Nhà bếp"
+                ],
+                "Price": 200000000
+            },
+            {
+                "PID": "Product4388d378hf843hhksnc",
+                "ProductName": "Tủ lạnh Corona PX9750",
+                "Favorited": 2134,
+                "Size": [
+                    300,
+                    200,
+                    100
+                ],
+                "Description": "Không có mô tả gì cả",
+                "Image": "https://img2.cgtrader.com/items/891263/2311cf8e81/organic-chair-3d-model-low-poly-max-obj-3ds-fbx.jpg",
+                "Images": [
+                    "https://img-new.cgtrader.com/items/891263/2311cf8e81/organic-chair-3d-model-low-poly-max-obj-3ds-fbx.jpg",
+                    "https://img1.cgtrader.com/items/891263/d35167bf50/organic-chair-3d-model-low-poly-max-obj-3ds-fbx.jpg",
+                    "https://img2.cgtrader.com/items/891263/2f9e7320bc/organic-chair-3d-model-low-poly-max-obj-3ds-fbx.jpg",
+                    "https://img2.cgtrader.com/items/891263/e9d961a4cf/organic-chair-3d-model-low-poly-max-obj-3ds-fbx.jpg"
+                ],
+                "Tags": [
+                    "Ghế",
+                    "Phòng ngủ",
+                    "Phòng khách"
+                ],
+                "Price": 1234000
+            },
+            {
+                "PID": "Productx483hfd43dj8hjjdhw9",
+                "ProductName": "Tủ nhỏ Nhật Bản Fuki",
+                "Favorited": 1123,
+                "Size": [
+                    300,
+                    200,
+                    100
+                ],
+                "Description": "Không có mô tả gì cả",
+                "Image": "https://img-new.cgtrader.com/items/744982/8e84c0a054/nightstand-3d-model-low-poly-obj-3ds-fbx-blend-unitypackage.png",
+                "Images": [
+                    "https://img-new.cgtrader.com/items/744982/8e84c0a054/nightstand-3d-model-low-poly-obj-3ds-fbx-blend-unitypackage.png",
+                    "https://img2.cgtrader.com/items/744982/530d7d47cd/nightstand-3d-model-low-poly-obj-3ds-fbx-blend-unitypackage.png",
+                    "https://img-new.cgtrader.com/items/744982/5435242d75/nightstand-3d-model-low-poly-obj-3ds-fbx-blend-unitypackage.png",
+                    "https://img-new.cgtrader.com/items/744982/53f12918b8/nightstand-3d-model-low-poly-obj-3ds-fbx-blend-unitypackage.png"
+                ],
+                "Tags": [
+                    "Tủ",
+                    "Phòng khách",
+                    "Phòng ngủ"
+                ],
+                "Price": 10000000
+            },
+            {
+                "PID": "Product1dy74d437wef98j4h38",
+                "ProductName": "Sofa nỉ sữa đặc biệt",
+                "Favorited": 7908,
+                "Size": [
+                    300,
+                    200,
+                    100
+                ],
+                "Description": "Không có mô tả gì cả",
+                "Image": "https://img1.cgtrader.com/items/2031187/774f6e9d6c/sofa-01-3d-model-low-poly-max-bip-obj-mtl-3ds.jpg",
+                "Images": [
+                    "https://img1.cgtrader.com/items/2031187/774f6e9d6c/sofa-01-3d-model-low-poly-max-bip-obj-mtl-3ds.jpg",
+                    "https://img-new.cgtrader.com/items/2031187/d509cc60fc/sofa-01-3d-model-low-poly-max-bip-obj-mtl-3ds.jpg"
+                ],
+                "Tags": [
+                    "Sofa",
+                    "Phòng khách",
+                    "Phòng ngủ"
+                ],
+                "Price": 1234567899
+            }
+        ],
+        "User": [
+            {
+                "Username": "Lmao01",
+                "Fullname": "Lờ Mao 1",
+                "UID": "Userf7438hf943jfj3h873j0f92",
+                "Cart": [],
+                "PaymentHistory": [
+                    {
+                        "ID": "Paid7438df4h38hf9384hfh23hs",
+                        "PID": "Product18349jf7843hff34h39"
+                    }
+                ]
+            },
+            {
+                "Username": "truong01",
+                "Fullname": "truong01",
+                "UID": "User327gd8732fh9834j340gj4",
+                "Cart": []
+            },
+            {
+                "Username": "KhachTest",
+                "Fullname": "KhachTest",
+                "UID": "Userdc34n8h932j0dj20jf34hh",
+                "Cart": []
+            },
+            {
+                "Username": "bbbbbb",
+                "Fullname": "DevTest",
+                "UID": "User54jg9f45jgj4598jg459gj",
+                "Cart": []
+            },
+            {
+                "Username": "trongtruong2603@gmail.com",
+                "Fullname": "Nguyễn Trọng Trường",
+                "UID": "Userh87d342h7834f493f39489",
+                "Cart": []
+            }
+        ],
+        "Banner": [
+            {
+                "ID": "Banner8732r23j09rf43j9r34903j9",
+                "ImageURL": "https://img1.cgtrader.com/items/1947272/59d67420b9/blender-eevee-modern-mansion-3d-model-low-poly-obj-mtl-fbx-stl-blend-dae-x3d.jpg",
+                "Title": "Phòng khách"
+            },
+            {
+                "ID": "Banner8732rsdjfnsjnfnifnsdfnj9",
+                "ImageURL": "https://img2.cgtrader.com/items/1004014/defafcf54f/beinspiration-56-3d-model-max-obj-fbx-c4d.jpg",
+                "Title": "Nhà bếp"
+            },
+            {
+                "ID": "Bannerasfdwe3443565569r34903j9",
+                "ImageURL": "https://img2.cgtrader.com/items/3122859/073b801c70/comfortable-bed-room-3d-model-low-poly-obj-fbx-dae.jpg",
+                "Title": "Phòng ngủ"
+            }
+        ],
+        "Tabs": [
+            {
+                "ID": "Tags3829435843985489u546343789",
+                "TagName": "Tất cả",
+                "Status": 0
+            },
+            {
+                "ID": "Tags3829435843985489u546343788",
+                "TagName": "Bàn",
+                "Status": 1
+            },
+            {
+                "ID": "Tags3829435843985489u546343787",
+                "TagName": "Ghế",
+                "Status": 2
+            },
+            {
+                "ID": "Tags3829435843985489u546343786",
+                "TagName": "Sofa",
+                "Status": 3
+            },
+            {
+                "ID": "Tags3829435843985489u546343785",
+                "TagName": "Tủ",
+                "Status": 4
+            },
+            {
+                "ID": "Tags3829435843985489u546343784",
+                "TagName": "Gối",
+                "Status": 5
+            },
+            {
+                "ID": "Tags3829435843985489u546343783",
+                "TagName": "Giường",
+                "Status": 6
+            },
+            {
+                "ID": "Tags3829435843985489u546343782",
+                "TagName": "Đèn",
+                "Status": 7
+            },
+            {
+                "ID": "Tags3829435843985489u546343781",
+                "TagName": "Giá để sách",
+                "Status": 8
+            },
+            {
+                "ID": "Tags3829435843985489u546343779",
+                "TagName": "Tủ lạnh",
+                "Status": 9
+            },
+            {
+                "ID": "Tags3829435843985489u5463437869",
+                "TagName": "Rèm",
+                "Status": 10
+            },
+            {
+                "ID": "Tags3829435843985489u546343759",
+                "TagName": "Gương",
+                "Status": 11
+            },
+            {
+                "ID": "Tags3829435843985489u546343749",
+                "TagName": "Thảm",
+                "Status": 12
+            },
+            {
+                "ID": "Tags3829435843985489u546343739",
+                "TagName": "Lọ hoa",
+                "Status": 13
+            },
+            {
+                "ID": "Tags3829435843985489u546343729",
+                "TagName": "Tranh",
+                "Status": 14
+            }
+        ]
+    },
+    "code": 200
+}
